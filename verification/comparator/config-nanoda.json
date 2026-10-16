@@ -1,0 +1,8 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "FsFltz.Geometry.GeometricComparisonAssembly",
+  "theorem_names": ["FsFltz.geometricTarget"],
+  "definition_names": [],
+  "permitted_axioms": ["propext", "Classical.choice", "Quot.sound"],
+  "enable_nanoda": true
+}

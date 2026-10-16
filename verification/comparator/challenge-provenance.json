@@ -1,0 +1,147 @@
+{
+  "source_repository": "https://github.com/bohanfang/fs-fltz",
+  "source_revision": "a1fd5e36b59280e2a1996782c73c2367fecc96e7",
+  "extraction_root": "lean-project",
+  "entry_module": "FsFltz.Target",
+  "project_import_count": 22,
+  "files": [
+    {
+      "original": "lean-project/FsFltz/Analytic.lean",
+      "challenge": "FsFltz/Analytic.lean",
+      "sha256": "3129c91460d0f4bace9b8f702271bd254677025f684fa61669c71250af4cf741"
+    },
+    {
+      "original": "lean-project/FsFltz/Compactness.lean",
+      "challenge": "FsFltz/Compactness.lean",
+      "sha256": "0612641d8deb6484f3383f63e2044a9adc710346c051e73e103ebe882f3fbd5c"
+    },
+    {
+      "original": "lean-project/FsFltz/Core.lean",
+      "challenge": "FsFltz/Core.lean",
+      "sha256": "64e106ceccab0b4b81e179ef38d53907a2398e373b193c080f7fbc534e3ce37f"
+    },
+    {
+      "original": "lean-project/FsFltz/Differential.lean",
+      "challenge": "FsFltz/Differential.lean",
+      "sha256": "0cd01351fa0cc4b41cacdea119650cc07e03b6ef5cfcb49bb23f75bd91078721"
+    },
+    {
+      "original": "lean-project/FsFltz/Geometry/Admissibility.lean",
+      "challenge": "FsFltz/Geometry/Admissibility.lean",
+      "sha256": "2b4b7fd4c75c2a764dc0c73488a0c1f91f4669ba43eaee74dc056cd75caad6f3"
+    },
+    {
+      "original": "lean-project/FsFltz/Geometry/Chain.lean",
+      "challenge": "FsFltz/Geometry/Chain.lean",
+      "sha256": "e498cae8f436b4787d9daa7d984baa6b2c75dd8d2d75f01884fa77035d66b816"
+    },
+    {
+      "original": "lean-project/FsFltz/Geometry/Deformation.lean",
+      "challenge": "FsFltz/Geometry/Deformation.lean",
+      "sha256": "3f1d451e71d511fdc69394ebfe2a9c8249073340fdb329010761a175ca0ddae0"
+    },
+    {
+      "original": "lean-project/FsFltz/Geometry/Family.lean",
+      "challenge": "FsFltz/Geometry/Family.lean",
+      "sha256": "6bf8ca0e50ad10402bd465491cf26bd177f0319da019d57d77b2e7134f6a0098"
+    },
+    {
+      "original": "lean-project/FsFltz/Geometry/FixedAmbient.lean",
+      "challenge": "FsFltz/Geometry/FixedAmbient.lean",
+      "sha256": "8fcedb064de005c2d236a425cebcbd0dfc137c8f102070592cb5eef9efb60d16"
+    },
+    {
+      "original": "lean-project/FsFltz/Geometry/Identification.lean",
+      "challenge": "FsFltz/Geometry/Identification.lean",
+      "sha256": "dcf6c79785e33c4f2f84d7d61e7f9ea6298caa254b9f104fc84e00aa9f08fcbf"
+    },
+    {
+      "original": "lean-project/FsFltz/Geometry/Liouville.lean",
+      "challenge": "FsFltz/Geometry/Liouville.lean",
+      "sha256": "d51b04337e39b31ab1b1d3b20093ba5956b8ea0b04456e141ef4c827268b335e"
+    },
+    {
+      "original": "lean-project/FsFltz/Geometry/Maslov.lean",
+      "challenge": "FsFltz/Geometry/Maslov.lean",
+      "sha256": "8272eefcb811fc07e30612c04cce680d3a6cbe768d63d86e78c837ab693aad61"
+    },
+    {
+      "original": "lean-project/FsFltz/Geometry/MaslovChain.lean",
+      "challenge": "FsFltz/Geometry/MaslovChain.lean",
+      "sha256": "25926e066c1abd589c736e550f3f05419c55ca88ec33cc62f7fd138cbb1a2d22"
+    },
+    {
+      "original": "lean-project/FsFltz/Geometry/MaslovTransport.lean",
+      "challenge": "FsFltz/Geometry/MaslovTransport.lean",
+      "sha256": "23dc32cc2c9dc29d7951dbee61fa631651a74dfaf536b168d75cc969d0408247"
+    },
+    {
+      "original": "lean-project/FsFltz/Geometry/PrescribedGrading.lean",
+      "challenge": "FsFltz/Geometry/PrescribedGrading.lean",
+      "sha256": "3cb1f8ee8e4a9ff8274b428a2899a9b58f991b45a55c12d8577de50c5ab48954"
+    },
+    {
+      "original": "lean-project/FsFltz/Geometry/Smooth.lean",
+      "challenge": "FsFltz/Geometry/Smooth.lean",
+      "sha256": "57b89da972058e0f3e2b963d9c291ca8dfcdc60f3b5c5904c8e3ae6f9e6cecbd"
+    },
+    {
+      "original": "lean-project/FsFltz/Geometry/ToricForms.lean",
+      "challenge": "FsFltz/Geometry/ToricForms.lean",
+      "sha256": "a98bb4c6596f3f95f139cb527e88aab158564903935839b5367b282fe6921476"
+    },
+    {
+      "original": "lean-project/FsFltz/QuotientGeometry.lean",
+      "challenge": "FsFltz/QuotientGeometry.lean",
+      "sha256": "ab8542fe43668c76dac9534fe59f7ec1e4ab3287454cabde84a4ebd94dad11b1"
+    },
+    {
+      "original": "lean-project/FsFltz/Regularity.lean",
+      "challenge": "FsFltz/Regularity.lean",
+      "sha256": "3d53eb793a2e978b8171ced4f5f427615a361ee16498545b7f3b46529d42257a"
+    },
+    {
+      "original": "lean-project/FsFltz/SmoothTorus.lean",
+      "challenge": "FsFltz/SmoothTorus.lean",
+      "sha256": "d74ada319619438727fee347fe2a9070533d875396c4870e90553e382d19e740"
+    },
+    {
+      "original": "lean-project/FsFltz/Target.lean",
+      "challenge": "FsFltz/Target.lean",
+      "sha256": "3f1e60389840f9f9d3c03f9ac17e71227e4ff5cbc4bb70876fcee086c25472bc"
+    },
+    {
+      "original": "lean-project/FsFltz/Toric.lean",
+      "challenge": "FsFltz/Toric.lean",
+      "sha256": "f3575f6bd45ef40f589e869df72fccfb170fe5f4fd149aee2cad4d11efb45280"
+    },
+    {
+      "original": "lean-project/lake-manifest.json",
+      "challenge": "lake-manifest.json",
+      "sha256": "fff8f90351a4f553b9133c0eac1f8e7eb24fd8c363ce940f971449c1f9e13623"
+    },
+    {
+      "original": "lean-project/lean-toolchain",
+      "challenge": "lean-toolchain",
+      "sha256": "d5edba4e4b8faad9c1baeadb265716d20d03be4d1a2647dc5e35b0c0325bea7b"
+    }
+  ],
+  "proof_scope": {
+    "preserved": "Existing foundational theorem statements and proof bodies in the baseline import closure are preserved verbatim.",
+    "excluded": "The later Phase II proof of FsFltz.geometricTarget is not in this challenge.",
+    "placeholder": "Only the added FsFltz.geometricTarget theorem has a sorry placeholder; all defining dependencies remain fixed.",
+    "comparison": "Comparator compares full declarations, including reached foundational proof bodies, except for the named target theorem proof. Source-file inclusion is broader than the declarations reached by the comparison."
+  },
+  "added_scaffolding": [
+    {
+      "challenge": "Challenge.lean",
+      "origin": "Release verification infrastructure, not a file copied from Phase I.",
+      "sha256": "2e2cc1dfdc9f4556213875f66399300fdadff48535178e8b403bc8a7a16c1569"
+    },
+    {
+      "challenge": "lakefile.toml",
+      "origin": "Release verification infrastructure, not a file copied from Phase I.",
+      "sha256": "ffde5467e3fbe570441efa61cc6ef513fe3590756afdc54a0b261b5588c894ac"
+    }
+  ]
+}
