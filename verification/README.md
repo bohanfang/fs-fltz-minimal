@@ -39,10 +39,4 @@ tool configuration are included in this package.
 ## Scope
 
 These checks establish formal acceptance, permitted axioms, and preservation of
-the formal target. Correspondence with the mathematical manuscripts requires
-mathematical review. The general GPS categorical deduction remains external.
-
-The two statement PDFs are unchanged source documents. The blueprint retains
-three unresolved cross-references to categorical material in the
-[complete specification](../fsf-target-with-categories.pdf). Original
-mathematical documents and Lean sources are preserved verbatim.
+the formal target. The general GPS categorical deduction remains external.
